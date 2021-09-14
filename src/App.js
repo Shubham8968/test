@@ -7,7 +7,7 @@ function App() {
     <div className="App">
 
       <h1>Test</h1>
-      <button label  />
+      <button label= "click me " />
     </div>
   );
 }
